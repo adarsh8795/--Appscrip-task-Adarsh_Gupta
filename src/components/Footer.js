@@ -195,45 +195,45 @@ const Footer = () => {
                     </li>
                     <li
                       style={{
-                        // minWidth: "200px",
+                        
                         marginBottom: "10px",
-                        // textAlign: "left",
+                        
                       }}
                     >
                       <h8>order and shipping </h8>
                     </li>
                     <li
                       style={{
-                        // minWidth: "200px",
+                        
                         marginBottom: "10px",
-                        // textAlign: "left",
+                        
                       }}
                     >
                       <h8>payment and pricing </h8>
                     </li>
                     <li
                       style={{
-                        // minWidth: "200px",
+                        
                         marginBottom: "10px",
-                        // textAlign: "left",
+                       
                       }}
                     >
                       <h8>return and shippments </h8>
                     </li>
                     <li
                       style={{
-                        // minWidth: "200px",
+                        
                         marginBottom: "10px",
-                        // textAlign: "left",
+                        
                       }}
                     >
                       <h8>Faqs</h8>
                     </li>
                     <li
                       style={{
-                        // minWidth: "200px",
+                        
                         marginBottom: "10px",
-                        // textAlign: "left",
+                        
                       }}
                     >
                       <h8>privacy policies</h8>
