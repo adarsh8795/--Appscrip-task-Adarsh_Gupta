@@ -275,20 +275,7 @@ const Products = () => {
                   </div>
                 </div>
               ) : null}
-              {/* <div style={{ display: "flex", marginBottom: "20px" }}>
-                <p style={{ gap: "80px" }}>
-                  {" "}
-                  <span>IDEAL FOR</span>{" "}
-                  <img
-                    src={left}
-                    alt="error"
-                    style={{ transform: "rotate(270deg)" }}
-                  />
-                  <div>
-                    <p>All</p>
-                  </div>
-                </p>
-              </div> */}
+              
               <div
                 style={{ display: "flex", gap: "80px", marginBottom: "20px" }}
               >
